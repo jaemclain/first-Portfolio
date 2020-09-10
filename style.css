@@ -6,6 +6,10 @@ img {
     float: left
 }
 
+div {
+    padding: 15px;
+}
+
 footer {
     position: fixed;
     left: 0;
